@@ -1,1 +1,1 @@
-# eightbells-privacy-policy
+This repository hosts the public privacy policy for EightBells, an Android app that rings the traditional ship's bell cycle on your device. The privacy policy is published through GitHub Pages for use in the Google Play Store listing and related app documentation.
